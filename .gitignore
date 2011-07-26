@@ -1,0 +1,6 @@
+_ReSharper.Blueprinting/
+bin/
+obj/
+*.user
+*.suo
+*.dotCover
