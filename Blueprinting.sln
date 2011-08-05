@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blueprinting.Tests", "test\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blueprinting.Tests.ExternalBlueprints", "test\Blueprinting.Tests.ExternalBlueprints\Blueprinting.Tests.ExternalBlueprints.csproj", "{913340E9-7E02-40C0-AC0D-2B7A1EA8C8F1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C9E81BEE-8EB2-4E02-817F-862B1469DF4F}"
+	ProjectSection(SolutionItems) = preProject
+		nuget\Blueprinting.1.0.0.nuspec = nuget\Blueprinting.1.0.0.nuspec
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

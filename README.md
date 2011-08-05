@@ -202,7 +202,7 @@ If you'd like to hack on Blueprints, start by forking my repo on GitHub:
 8. Push the branch up to GitHub
 9. Send me ([colincasey][github]) a pull request for your branch
 
-== Copyright
+## Copyright
 
 Copyright (c) 2011 Colin Casey. See LICENSE for details.
 
